@@ -11,7 +11,7 @@ public class ServiceAApplication {
 
     @RequestMapping("/")
     public String helloa(){
-        return "This is helloa service.";
+        return "This is changed helloa service.";
     }
 
     public static void main(String[] args) {
